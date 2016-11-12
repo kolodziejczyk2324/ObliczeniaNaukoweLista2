@@ -1,0 +1,38 @@
+Doswiadczenie dla Float32
+Tablica X:
+[ 2.718281746, -3.141592741, 1.414213538, 0.5772156715, 0.30103001 ]
+Tablica Y:
+[ 1486.249756, 878367 , -22.37491989, 4773714.5, 0.0001850489934 ]
+Suma w przod: -0.4999442994594574
+Suma w tyl: -0.454345703125
+Suma od najwiekszego do najmniejszego: -0.5
+Suma od najmniejszego do najwiekszego: -0.5
+Tablica X:
+[ 2.718281746, -3.141592741, 1.414213538, 0.5772156715, 0.3010299802 ]
+Tablica Y:
+[ 1486.249756, 878367 , -22.37491989, 4773714.5, 0.0001850489934 ]
+Suma w przod: -0.4999442994594574
+Suma w tyl: -0.454345703125
+Suma od najwiekszego do najmniejszego: -0.5
+Suma od najmniejszego do najwiekszego: -0.5
+
+
+Doswiadczenie dla Float64
+Tablica X:
+[ 2.718281828, -3.141592654, 1.414213562, 0.5772156649, 0.3010299957 ]
+Tablica Y:
+[ 1486.2497, 878366.9879, -22.37492, 4773714.647, 0.000185049 ]
+Suma w przod: 1.0251881368296672e-10
+Suma w tyl: -1.5643308870494366e-10
+Suma od najwiekszego do najmniejszego: 0 
+Suma od najmniejszego do najwiekszego: 0 
+Tablica X:
+[ 2.718281828, -3.141592654, 1.414213562, 0.577215664, 0.301029995 ]
+Tablica Y:
+[ 1486.2497, 878366.9879, -22.37492, 4773714.647, 0.000185049 ]
+Suma w przod: -0.0042963427398915854
+Suma w tyl: -0.0042963429987139534
+Suma od najwiekszego do najmniejszego: -0.0042963428422808647
+Suma od najmniejszego do najwiekszego: -0.0042963428422808647
+
+

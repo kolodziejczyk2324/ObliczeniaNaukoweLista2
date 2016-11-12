@@ -1,0 +1,120 @@
+MACIERZ HILBERTA
+Iteracja: 1
+Wskaznik uwarunkowania: 1 
+Rzad: 1 
+Blad wzgledny dla Eliminacji Gaussa: 0 
+Blad wzgledny dla odwrotnosci macierzy: 0 
+Iteracja: 2
+Wskaznik uwarunkowania: 19.281470067904
+Rzad: 2 
+Blad wzgledny dla Eliminacji Gaussa: 5.66104886700368e-16
+Blad wzgledny dla odwrotnosci macierzy: 1.1240151438117e-15
+Iteracja: 3
+Wskaznik uwarunkowania: 524.056777586064
+Rzad: 3 
+Blad wzgledny dla Eliminacji Gaussa: 8.02259377226773e-15
+Blad wzgledny dla odwrotnosci macierzy: 9.82552603818082e-15
+Iteracja: 4
+Wskaznik uwarunkowania: 15513.7387389292
+Rzad: 4 
+Blad wzgledny dla Eliminacji Gaussa: 4.45154596018121e-13
+Blad wzgledny dla odwrotnosci macierzy: 2.95047763728678e-13
+Iteracja: 5
+Wskaznik uwarunkowania: 476607.250242594
+Rzad: 5 
+Blad wzgledny dla Eliminacji Gaussa: 1.68284262992272e-12
+Blad wzgledny dla odwrotnosci macierzy: 8.5000557777533e-12
+MACIERZ LOSOWA
+Poczatek testu dla macierzy losowej rozmiaru: 5
+Iteracja: 1
+Wskaznik uwarunkowania: 1 
+Rzad: 5 
+Blad wzgledny dla Eliminacji Gaussa: 1.11022302462516e-16
+Blad wzgledny dla odwrotnosci macierzy: 1.48952049194836e-16
+Iteracja: 2
+Wskaznik uwarunkowania: 10 
+Rzad: 5 
+Blad wzgledny dla Eliminacji Gaussa: 2.67377111091533e-16
+Blad wzgledny dla odwrotnosci macierzy: 2.67377111091533e-16
+Iteracja: 3
+Wskaznik uwarunkowania: 1000 
+Rzad: 5 
+Blad wzgledny dla Eliminacji Gaussa: 2.11644736175299e-14
+Blad wzgledny dla odwrotnosci macierzy: 1.03763988358849e-14
+Iteracja: 4
+Wskaznik uwarunkowania: 9999999.9978164
+Rzad: 5 
+Blad wzgledny dla Eliminacji Gaussa: 2.49492786210351e-11
+Blad wzgledny dla odwrotnosci macierzy: 1.23466962808647e-10
+Iteracja: 5
+Wskaznik uwarunkowania: 999962018991.86
+Rzad: 5 
+Blad wzgledny dla Eliminacji Gaussa: 1.98673432417387e-05
+Blad wzgledny dla odwrotnosci macierzy: 1.87468951177004e-05
+Iteracja: 6
+Wskaznik uwarunkowania: 1.07398202013635e+16
+Rzad: 4 
+Blad wzgledny dla Eliminacji Gaussa: 0.355162758816473
+Blad wzgledny dla odwrotnosci macierzy: 0.568970972590399
+Poczatek testu dla macierzy losowej rozmiaru: 10
+Iteracja: 1
+Wskaznik uwarunkowania: 1 
+Rzad: 10 
+Blad wzgledny dla Eliminacji Gaussa: 2.89510744497907e-16
+Blad wzgledny dla odwrotnosci macierzy: 2.71947991102104e-16
+Iteracja: 2
+Wskaznik uwarunkowania: 10 
+Rzad: 10 
+Blad wzgledny dla Eliminacji Gaussa: 1.95474934701723e-16
+Blad wzgledny dla odwrotnosci macierzy: 2.40690616200898e-16
+Iteracja: 3
+Wskaznik uwarunkowania: 999.999999999979
+Rzad: 10 
+Blad wzgledny dla Eliminacji Gaussa: 3.56310681756815e-16
+Blad wzgledny dla odwrotnosci macierzy: 1.60886601221371e-15
+Iteracja: 4
+Wskaznik uwarunkowania: 10000000.0014851
+Rzad: 10 
+Blad wzgledny dla Eliminacji Gaussa: 2.13569305109663e-11
+Blad wzgledny dla odwrotnosci macierzy: 6.19140983792677e-11
+Iteracja: 5
+Wskaznik uwarunkowania: 999992261557.734
+Rzad: 10 
+Blad wzgledny dla Eliminacji Gaussa: 4.42243612579543e-05
+Blad wzgledny dla odwrotnosci macierzy: 4.28403565699284e-05
+Iteracja: 6
+Wskaznik uwarunkowania: 6.35330891640914e+15
+Rzad: 9 
+Blad wzgledny dla Eliminacji Gaussa: 0.0210098915909504
+Blad wzgledny dla odwrotnosci macierzy: 0.0803538717628326
+Poczatek testu dla macierzy losowej rozmiaru: 20
+Iteracja: 1
+Wskaznik uwarunkowania: 1 
+Rzad: 20 
+Blad wzgledny dla Eliminacji Gaussa: 8.54222650911012e-16
+Blad wzgledny dla odwrotnosci macierzy: 5.03287498638511e-16
+Iteracja: 2
+Wskaznik uwarunkowania: 10 
+Rzad: 20 
+Blad wzgledny dla Eliminacji Gaussa: 4.67745274356022e-16
+Blad wzgledny dla odwrotnosci macierzy: 4.39205126597841e-16
+Iteracja: 3
+Wskaznik uwarunkowania: 1000.00000000002
+Rzad: 20 
+Blad wzgledny dla Eliminacji Gaussa: 1.2121581545673e-14
+Blad wzgledny dla odwrotnosci macierzy: 9.89033630608209e-15
+Iteracja: 4
+Wskaznik uwarunkowania: 10000000.0028492
+Rzad: 20 
+Blad wzgledny dla Eliminacji Gaussa: 6.75729838807358e-11
+Blad wzgledny dla odwrotnosci macierzy: 2.26023615207073e-11
+Iteracja: 5
+Wskaznik uwarunkowania: 1000054182625.17
+Rzad: 20 
+Blad wzgledny dla Eliminacji Gaussa: 3.83538047537461e-05
+Blad wzgledny dla odwrotnosci macierzy: 3.92202548322745e-05
+Iteracja: 6
+Wskaznik uwarunkowania: 6.00797956706796e+15
+Rzad: 19 
+Blad wzgledny dla Eliminacji Gaussa: 0.187723279781283
+Blad wzgledny dla odwrotnosci macierzy: 0.143646999443841
